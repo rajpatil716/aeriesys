@@ -14,9 +14,8 @@ const App = () => {
       <Routes>
         {/* Route for login page */}
         <Route path="/" element={<LoginPage />} />
-
         {/* Route for home page, only visible after login */}
-        <Route path="/home" element={<HomePage/>} />
+        <Route path="/home" element={<HomePage />} />
       </Routes>
     </Router>
   );
