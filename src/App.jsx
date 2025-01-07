@@ -6,6 +6,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import "admin-lte/dist/css/adminlte.css";
 // import 'overlayscrollbars/styles/overlayscrollbars.css';
 // import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+// import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 const App = () => {
   
 
